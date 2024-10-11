@@ -35,7 +35,6 @@ A Wikipedia entry lists all municipalities and towns in the federal state of Nor
 
 
 ### Undirected graph
-
 <img src="Evaluation/1u.png" width="75%">
 Both figures show the application of the LP algorithm 1000 times. Figure 40 shows the respective frequency or number of communities found, while Figure 41 shows the extent to which there is a dependency between the number of communities found and the calculated modularity.
 
