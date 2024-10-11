@@ -37,23 +37,23 @@ A Wikipedia entry lists all municipalities and towns in the federal state of Nor
 ### Undirected graph
 
 <img src="Evaluation/1u.png" width="500" height="500">
-<img src="Evaluation/2u.png">
-<img src="Evaluation/3u.png">
-<img src="Evaluation/4u.png">
-<img src="Evaluation/5u.png">
-<img src="Evaluation/6u.png">
-<img src="Evaluation/7u.png">
-<img src="Evaluation/8u.png">
-<img src="Evaluation/9u.png">
+<img src="Evaluation/2u.png" width="500" height="500">
+<img src="Evaluation/3u.png" width="500" height="500">
+<img src="Evaluation/4u.png" width="500" height="500">
+<img src="Evaluation/5u.png" width="500" height="500">
+<img src="Evaluation/6u.png" width="500" height="500">
+<img src="Evaluation/7u.png" width="500" height="500">
+<img src="Evaluation/8u.png" width="500" height="500">
+<img src="Evaluation/9u.png" width="500" height="500">
 ### Directed graph
-<img src="Evaluation/1g.png">
-<img src="Evaluation/2g.png">
-<img src="Evaluation/3g.png">
-<img src="Evaluation/4g.png">
-<img src="Evaluation/5g.png">
-<img src="Evaluation/6g.png">
-<img src="Evaluation/7g.png">
-<img src="Evaluation/8g.png">
-<img src="Evaluation/9g.png">
+<img src="Evaluation/1g.png" width="500" height="500">
+<img src="Evaluation/2g.png" width="500" height="500">
+<img src="Evaluation/3g.png" width="500" height="500">
+<img src="Evaluation/4g.png" width="500" height="500">
+<img src="Evaluation/5g.png" width="500" height="500">
+<img src="Evaluation/6g.png" width="500" height="500">
+<img src="Evaluation/7g.png" width="500" height="500">
+<img src="Evaluation/8g.png" width="500" height="500">
+<img src="Evaluation/9g.png" width="500" height="500">
 
 
