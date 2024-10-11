@@ -37,8 +37,14 @@ A Wikipedia entry lists all municipalities and towns in the federal state of Nor
 ### Undirected graph
 
 <img src="Evaluation/1u.png" width="75%">
+Both figures show the application of the LP algorithm 1000 times. Figure 40 shows the respective frequency or number of communities found, while Figure 41 shows the extent to which there is a dependency between the number of communities found and the calculated modularity.
+
 <img src="Evaluation/2u.png" width="75%">
+Figure 42 shows the respective frequency of the number of iteration steps required until the termination condition is fulfilled.
+
 <img src="Evaluation/3u.png" width="75%">
+Figure 43 shows that 79.3% of the nodes are contained in a cluster and that the 10 nodes with the highest page rank are among them.
+
 <img src="Evaluation/4u.png" width="75%">
 <img src="Evaluation/5u.png" width="75%">
 <img src="Evaluation/6u.png" width="75%">
