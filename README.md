@@ -1,4 +1,4 @@
-The label propagation method <sup>1</sup>[1] is a fast, iterative and non-deterministic method for partitioning networks 
+The label propagation method <sup>1</sup> is a fast, iterative and non-deterministic method for partitioning networks 
 into disjoint communities. The algorithm can thus lead to different community structures starting from the same 
 initial state. The method uses the network structure to determine the communities and does not require any external 
 parameter settings, such as the desired number of clusters and other preliminary information.
@@ -27,6 +27,5 @@ Runetime: Initialization of each node with a unique label required: O(n). Each i
 <sup>1</sup> U. N. Raghavan, R. Albert und S. Kumara. Near linear time algorithm to detect
 community structures in large-scale networks. Phys. Rev. E, 76:036106, Sep 2007.
 
-U. N. Raghavan, R. Albert und S. Kumara. Near linear time algorithm to detect
-community structures in large-scale networks. Phys. Rev. E, 76:036106, Sep 2007
+
 
