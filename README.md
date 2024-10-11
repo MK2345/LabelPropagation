@@ -36,7 +36,7 @@ A Wikipedia entry lists all municipalities and towns in the federal state of Nor
 
 ### Undirected graph
 
-<img src="Evaluation/1u.png" width="50" height="50">
+<img src="Evaluation/1u.png" width="200" height="200">
 <img src="Evaluation/2u.png">
 <img src="Evaluation/3u.png">
 <img src="Evaluation/4u.png">
