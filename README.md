@@ -34,4 +34,11 @@ Example data:
 A Wikipedia entry lists all municipalities and towns in the federal state of North Rhine-Westphalia (Germany). There are 23 cities and 373 municipalities, making a total of 396 cities and municipalities in North Rhine-Westphalia. All cities and municipalities have their own entry in Wikipedia. Each Wikipedia entry for a city or municipality in the federal state of North Rhine-Westphalia contains links to other cities and municipalities in North Rhine-Westphalia. This is how a network can be defined. A city or municipality is connected to another city or municipality if its Wikipedia entry contains a link to the other municipality or city. The network defined in this way has 396 nodes and 8373 edges.
 
 
+### Undirected graph
+
+
+
+### Directed graph
+
+
 
