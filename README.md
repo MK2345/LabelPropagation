@@ -21,6 +21,7 @@ communities, in which each node has at least as many neighbors within its of its
 every other community.
 
 Runetime: Initialization of each node with a unique label required: O(n). Each iteration requires: O(m)
-m corresponds to the number of edges and n to the number of nodes in the network.
+
+(m corresponds to the number of edges and n to the number of nodes in the network)
 
 
